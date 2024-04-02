@@ -1,3 +1,1 @@
-# Mentorness
-
 # Indian Agricultural Analysis
